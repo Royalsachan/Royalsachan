@@ -23,8 +23,17 @@
 
  ### 📊 Github Stats
   
-  <img src="https://github-readme-stats.vercel.app/api?username=royalsachan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=royalsachan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<!-- Stats Card with Custom Theme -->
+![](https://github-readme-stats.vercel.app/api?username=royalsachan&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+<!-- Streak Stats -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=royalsachan&theme=radical&hide_border=true)<br/>
+
+<!-- Languages Card -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=royalsachan&theme=radical&hide_border=true&layout=compact)
+
+<!-- Trophy Stats -->
+![](https://github-profile-trophy.vercel.app/?username=royalsachan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 </div>
 
 
