@@ -24,7 +24,7 @@
  ### 📊 Github Stats
   
 <!-- GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=royalsachan&theme=radical&hide_border=true&count_private=true&PAT_1=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)
+![Stats](https://github-readme-stats.vercel.app/api?username=royalsachan&show_icons=true&count_private=true&include_all_commits=true)
 
 <!-- Streak Stats -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=royalsachan&theme=radical&hide_border=true&token=YOUR_TOKEN)
