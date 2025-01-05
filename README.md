@@ -21,19 +21,19 @@
 
 
 
- ### 📊 Github Stats
-  
-<!-- GitHub Stats -->
-![Stats](https://github-readme-stats.vercel.app/api?username=royalsachan&show_icons=true&count_private=true&include_all_commits=true)
+### 📊 GitHub Stats
 
-<!-- Streak Stats -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=royalsachan&theme=radical&hide_border=true&token=YOUR_TOKEN)
+<!-- GitHub Stats Card -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=royalsachan&show_icons=true&theme=radical&hide_border=true)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=royalsachan&theme=radical&hide_border=true)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royalsachan&theme=radical&hide_border=true&layout=compact)
 
 <!-- Activity Graph -->
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=royalsachan&theme=redical&hide_border=true&token=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)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=royalsachan&theme=radical&hide_border=true&layout=compact&PAT_1=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)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=royalsachan&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 
